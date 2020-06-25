@@ -1,7 +1,16 @@
 ffsdfdsfdsfs
+<<<<<<< HEAD
 
 test
 asdasdadtest
 test
 test
 test
+=======
+faljsfljsflsjadòfl
+sdfjasldjflas
+sfjasdjfjasf
+sfàsdfjlasdjfàlas
+asjdfljasdòfla
+
+>>>>>>> terminale
